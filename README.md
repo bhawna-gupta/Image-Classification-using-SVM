@@ -13,10 +13,10 @@ Prediction is made by majority vote from nC2 classifiers.
 * Implementing One vs One technique on a SVM Classifier made from scratch
   - Accuracy - 61.75%
 
-![alt-text](https://github.com/bhawna-gupta/Image-Classification-using-SVM/blob/master/Classifier.PNG)
+![alt-text](https://github.com/bhawna-gupta/Image-Classification-using-SVM/blob/master/Classifier.png)
 
 
 * Using scikit learn
   - Accuracy - 66.95%
 
-![alt-text](https://github.com/bhawna-gupta/Image-Classification-using-SVM/blob/master/Sklearn.PNG)
+![alt-text](https://github.com/bhawna-gupta/Image-Classification-using-SVM/blob/master/Sklearn.png)
